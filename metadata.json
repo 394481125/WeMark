@@ -1,0 +1,5 @@
+{
+  "name": "WeMark第八版 部署版",
+  "description": "A Markdown to Rich Text converter designed for WeChat Official Accounts, featuring Mac-style code blocks and inline styling.",
+  "requestFramePermissions": []
+}
